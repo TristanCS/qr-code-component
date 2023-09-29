@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/TristanCS/qr-code-component)
+- Solution URL: [QR Code Component](https://www.frontendmentor.io/solutions/html-css-flexbox-TGcpb3Nnkr)
 
 ## My process
 
@@ -32,4 +32,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/TristanCS)
+- Frontend Mentor - [@TristanCS](https://www.frontendmentor.io/profile/TristanCS)
